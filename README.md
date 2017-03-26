@@ -4,9 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Pitch Estimation Assigment
-* Version 2017
-
+* Pitch Estimation and Voicing Detector Assigment
+* Not ready to be tested properly
 ### How do I get set up? ###
 
 * Summary of set up
@@ -24,4 +23,4 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* jose.fonollosa@upc.edu
+* riki_10004@hotmail.com
